@@ -1,3 +1,3 @@
 setInterval(()=>{
-    console.log("helleeo!!o!!")
+    console.log("whatsup!")
 },2000)
