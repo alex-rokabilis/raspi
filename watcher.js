@@ -13,3 +13,6 @@ function watch() {
 }
 
 watch();
+
+var proc = child_process.spawn("main.js");
+console.log(proc);
